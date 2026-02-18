@@ -1,4 +1,14 @@
 .ipynb_checkpoints/
 .env
 .venv/
+*pdf
+*pptx
+*txt
+*csv
+*docx
+
+
 Part1_Materials/
+apple_faiss_idx/
+more_docs/
+merge_pdf.py
